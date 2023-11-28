@@ -2,7 +2,7 @@
 This repository has been made from content of the EDS 220 course
 
 ## About
-This repository contains a notebook 'air-quality-fire-sb.ipynb' that analyzes air quality in Santa Barbara in 2017-2018 and the association with the Thomas Fire in Santa Barbara that occurred in 2017.
+This repository contains two notebooks: 'aqi-santa-barbara.ipynb' and 'thomas-fire.ipynb' that analyzes air quality in Santa Barbara in 2017-2018 and the association with the Thomas Fire in Santa Barbara that occurred in 2017, respectively.
 
 ## Visualization
 After filtering air quality data to Santa Barbara county, I make a line plot showing AQI and a 5-day average for Santa Barbara in 2017-2018. The second visualization is a false color image of Santa Barbara with the area of the Thomas Fire burn overlayed to show the extent. 
